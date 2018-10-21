@@ -1,6 +1,7 @@
 var add = title => {
   console.log("Added:", title);
   console.log("Test");
+  console.log("Test");
 };
 var remove = title => {
   console.log("Remove:", title);
